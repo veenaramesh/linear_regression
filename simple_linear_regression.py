@@ -1,6 +1,3 @@
-# NOTE: You may not use the library Linear Regression, but implement your own!
-# REMEMBER to place self.attribute = 0 with value from your implementation
-
 class MyLinearRegression:
   """
   Define what a linear regressor can do
